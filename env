@@ -1,0 +1,4 @@
+NODE_ENV=local
+PORT=3001
+MONGO_DB_URL=mongodb://127.0.0.1/ecommerce
+JWT_SECRET=jwtSecret
